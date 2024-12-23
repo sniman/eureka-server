@@ -3,7 +3,7 @@ package com.infybuzz.app;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
-
+//hello
 @SpringBootApplication
 @EnableEurekaServer
 public class EurekaServerApplication {
